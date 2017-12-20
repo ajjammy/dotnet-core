@@ -1,0 +1,15 @@
+/Users/ajjammy/git/dotnet-core/test/hello-test/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/ajjammy/git/dotnet-core/test/hello-test/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/ajjammy/git/dotnet-core/test/hello-test/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/ajjammy/git/dotnet-core/test/hello-test/bin/Debug/netcoreapp2.0/hello-test.deps.json
+/Users/ajjammy/git/dotnet-core/test/hello-test/bin/Debug/netcoreapp2.0/hello-test.runtimeconfig.json
+/Users/ajjammy/git/dotnet-core/test/hello-test/bin/Debug/netcoreapp2.0/hello-test.runtimeconfig.dev.json
+/Users/ajjammy/git/dotnet-core/test/hello-test/bin/Debug/netcoreapp2.0/hello-test.dll
+/Users/ajjammy/git/dotnet-core/test/hello-test/bin/Debug/netcoreapp2.0/hello-test.pdb
+/Users/ajjammy/git/dotnet-core/test/hello-test/obj/Debug/netcoreapp2.0/hello-test.csproj.CoreCompileInputs.cache
+/Users/ajjammy/git/dotnet-core/test/hello-test/obj/Debug/netcoreapp2.0/hello-test.AssemblyInfoInputs.cache
+/Users/ajjammy/git/dotnet-core/test/hello-test/obj/Debug/netcoreapp2.0/hello-test.AssemblyInfo.cs
+/Users/ajjammy/git/dotnet-core/test/hello-test/obj/Debug/netcoreapp2.0/hello-test.dll
+/Users/ajjammy/git/dotnet-core/test/hello-test/obj/Debug/netcoreapp2.0/hello-test.pdb
+/Users/ajjammy/git/dotnet-core/test/hello-test/bin/Debug/netcoreapp2.0/hello.dll
+/Users/ajjammy/git/dotnet-core/test/hello-test/bin/Debug/netcoreapp2.0/hello.pdb
