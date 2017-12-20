@@ -11,10 +11,10 @@
 ## 2. Build -> Test -> Run
 * Build: build all projects in solution 
 
-  `$dotnet build`
+  `$ dotnet build`
 * Test: run test project
   
-  `$dotnet test test/hello-test/hello-test.csproj`
+  `$ dotnet test test/hello-test/hello-test.csproj`
 * Run: run api project
 
-  `$dotnet run --project src/hello/hello.csproj`
+  `$ dotnet run --project src/hello/hello.csproj`
