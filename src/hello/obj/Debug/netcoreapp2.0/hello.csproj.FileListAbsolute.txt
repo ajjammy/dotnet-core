@@ -1,0 +1,10 @@
+/Users/ajjammy/git/dotnet-core/src/hello/bin/Debug/netcoreapp2.0/hello.deps.json
+/Users/ajjammy/git/dotnet-core/src/hello/bin/Debug/netcoreapp2.0/hello.runtimeconfig.json
+/Users/ajjammy/git/dotnet-core/src/hello/bin/Debug/netcoreapp2.0/hello.runtimeconfig.dev.json
+/Users/ajjammy/git/dotnet-core/src/hello/bin/Debug/netcoreapp2.0/hello.dll
+/Users/ajjammy/git/dotnet-core/src/hello/bin/Debug/netcoreapp2.0/hello.pdb
+/Users/ajjammy/git/dotnet-core/src/hello/obj/Debug/netcoreapp2.0/hello.csproj.CoreCompileInputs.cache
+/Users/ajjammy/git/dotnet-core/src/hello/obj/Debug/netcoreapp2.0/hello.AssemblyInfoInputs.cache
+/Users/ajjammy/git/dotnet-core/src/hello/obj/Debug/netcoreapp2.0/hello.AssemblyInfo.cs
+/Users/ajjammy/git/dotnet-core/src/hello/obj/Debug/netcoreapp2.0/hello.dll
+/Users/ajjammy/git/dotnet-core/src/hello/obj/Debug/netcoreapp2.0/hello.pdb
